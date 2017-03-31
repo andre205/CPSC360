@@ -1,0 +1,21 @@
+Assignment 1 Homework Responses
+Tyler Andrews - 2263083
+
+2-5.	8x10in @ 100ppi: 800x1000pixels, 6 bits per pixel
+	800x1000x6 = 4,800,000bits = 600,000bytes
+
+2-6.	800x600x16 = 7,680,000 / 105 = 73,143 sec
+	1680x1050x32 = 56,448,000 / 105 = 537,600 sec
+
+2-8.	800x600 = 480,000 pixels * 60 fps = 28,800,000 pixels/sec
+	1680x1050 = 1,764,000 * 60 = 105,840,000 pixels/sec
+	1 frame = 1/60 sec, 1 pixel = 1/480,000. 1/60*1/480,000 = 3.47x10^-8 sec
+	1/60 * 1/1,764,000 = 9.45x10^-9 sec 
+
+2-10.	30fps = 1/30 sec per frame * 1/1050 rows = .000032 sec per row
+
+2-12.	1050 * 4microsec = 4200microsec = 4.2ms per horizontal retrace
+	One vertical retrace per frame   + .4ms
+	Total time in retrace: 		  4.6ms
+	Total time per frame = 1/65 of a sec = .0154sec = 15.4ms
+	4.6ms/15.4ms = 29.9% of time refreshing

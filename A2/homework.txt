@@ -1,0 +1,16 @@
+4-10
+
+A = 15
+B = 21
+C = 9
+D = 0
+15x + 21y + 9z + 0 = 0
+15x + 21y + 9z = 0
+
+(2,-1,-1) 
+30 - 21 - 9  = 0    On the plane.
+
+(1,-2,2)
+15 - 42 + 18 = -9   Not on the plane. 
+
+The pentagon is NOT planar.
